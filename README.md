@@ -7,8 +7,7 @@
 <p align="center">
   <a href="mailto:mundadamarmik@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/marmikmundada/">LinkedIn</a> •
-  <a href="https://leetcode.com/u/mundadamarmik/">LeetCode</a> •
-  <a href="https://github.com/marmik2001/Brokerhub">BrokerHub</a>
+  <a href="https://leetcode.com/u/mundadamarmik/">LeetCode</a>
 </p>
 
 <p align="center">
